@@ -1,0 +1,64 @@
+\documentclass[a4paper,10pt]{article}
+\documentclass[a4paper,10pt]{scrartcl}
+\usepackage[spanish,es-lcroman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+
+\pdfinfo{%
+  /Title    (Numero Primos)
+  /Author   (Yanlui J. Alarcon Quinones)
+  /Creator  ()
+  /Producer ()
+  /Subject  ()
+  /Keywords ()
+}
+
+
+\begin{document}
+
+\begin{titlepage}
+\begin{center}
+\begin{Huge}
+\textsc{universida ca\'otilca san pablo}
+\end{Huge}
+\end{center}
+\end{titlepage}
+
+\newpage
+\chapter{}
+\pagenumbering{Roman}
+\begin{flushright}
+\textit{Dedicado a Mi Familia \\
+ksajfka}
+\end{flushright}
+
+\newpage
+\chapter{} % si no queremos que añada la palabra "Capitulo"
+\addcontentsline{toc}{chapter}{Agradecimientos} % si queremos que aparezca en el índice
+\markboth{AGRADECIMIENTOS}{AGRADECIMIENTOS} % encabezado
+ 
+¡Muchas gracias a todos!
+
+\chapter{} % si no queremos que añada la palabra "Capitulo"
+\addcontentsline{toc}{section}{Resumen} % si queremos que aparezca en el índice
+\markboth{RESUMEN}{RESUMEN} % encabezado
+
+Una bonita historia
+
+\newpage
+
+
+\chapter{Introducción}\label{cap.introduccion}
+\pagenumbering{arabic} % para empezar la numeración con números
+Érase una vez...
+\section{sección1}
+Bla bla bla
+\subsection{subsección1}
+Ble ble ble
+\subsubsection{subsubsección1}
+Bli bli bli
+\paragraph{párrafo1}
+Blo blo blo
+
+\end{document}

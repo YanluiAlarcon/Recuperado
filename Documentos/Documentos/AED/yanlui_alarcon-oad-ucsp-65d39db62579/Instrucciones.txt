@@ -1,0 +1,6 @@
+Aqui estaran todos los trabajos pendientes por hacer:
+
+1.- Metodos de ordenamiento X
+2.- Damas X
+3.- Reversi X
+4.- Practica Functores X

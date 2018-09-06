@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1448728959 source:d:\oad\ejercicios\ja\aleatorio.cpp
+	"aleatorio.h"
+
+1448731182 d:\oad\ejercicios\ja\aleatorio.h
+	<iostream>
+
+1448730057 source:d:\oad\ejercicios\ja\main.cpp
+	<iostream>
+	"aleatorio.h"
+
+1448728959 d:\oad\ejercicios\ja\aleatorio.cpp
+	"aleatorio.h"
+
+1448734844 source:d:\oad\ejercicios\ejercicios\main.cpp
+	<iostream>
+	"Rand.h"
+
+1448734927 d:\oad\ejercicios\ejercicios\rand.h
+	<iostream>
+
+1448733464 source:d:\oad\ejercicios\ejercicios\rand.cpp
+	"Rand.h"
+
+1448733464 source:d:\oad\ejercicios\rand.cpp
+	"Rand.h"
+
+1448819095 d:\oad\ejercicios\rand.h
+
+1449164980 source:d:\oad\ejercicios\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Rand.h"
+
+1449232315 source:/home/luianxavier/Documentos/AED/yanlui_alarcon-oad-ucsp-65d39db62579/Ejercicios/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Rand.h"
+
+1449232315 source:/home/luianxavier/Documentos/AED/yanlui_alarcon-oad-ucsp-65d39db62579/Ejercicios/rand.cpp
+	"Rand.h"
+

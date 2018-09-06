@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1448243825 source:d:\oad\games\reversi\main.cpp
+	<iostream>
+	"Reversi.h"
+
+1448241838 d:\oad\games\reversi\reversi.h
+
